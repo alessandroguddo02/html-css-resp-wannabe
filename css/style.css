@@ -165,4 +165,13 @@ img {
     .row .col {
         width: 100%;
     }
+
+    .steps{
+        margin-bottom:0;
+    }
+
+     .why-us{
+        background-color: black;
+        padding-top: 3rem;
+    }
 }
